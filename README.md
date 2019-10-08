@@ -1,6 +1,17 @@
-# NEON Science Summit
+![Earth Lab Logo](https://www.earthdatascience.org/images/earth-lab-logo.png)
+# Earth Lab: NEON Science Summit
 
-A repository for the 2019 NEON Science Summit
+When: October 17-19 2019
+Where: Earth Lab - University of Colorado, Boulder - SEEC building; remote participation is also welcome!
+
+Earth Lab has organized a science summit to build community around NEON. This repo contains resources and schedules associated with this event!
+
+
+## Important Resources and Agenda
+
+Check out the wiki for the agenda and other resources:
+https://github.com/earthlab/neon-science-summit/wiki
+
 
 ## What is this?
 
