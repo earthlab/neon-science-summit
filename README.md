@@ -5,7 +5,7 @@ When: October 15-17, 2019
 
 Where: Earth Lab - University of Colorado, Boulder - SEEC building (4001 Discovery Dr., Boulder, CO 80303); remote participation is also welcome!
 
-Earth Lab has organized a science summit to build community around NEON. This repo contains resources and schedules associated with this event!
+Earth Lab has organized a science Summit to build community around NEON data. This repo contains resources and schedules associated with this event!
 
 
 ## Important Resources and Agenda
